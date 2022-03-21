@@ -1,0 +1,8 @@
+Completing this project will require writing the following Java classes:
+
+FCFS.java
+RR.java
+Priority.java
+
+Each of these classes must implement the Algorithm.java interface.
+
